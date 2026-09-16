@@ -143,113 +143,144 @@ Escaneo / actualización
         │
         ▼
 Sincronización de estados
-🛠️ Tecnologías utilizadas
-Frontend
-React
-JavaScript
-HTML
-CSS
-Backend / Datos
-Firebase
-Firestore
-Firebase Authentication
-Lectura QR
-html5-qrcode
-Herramientas
-Visual Studio Code
-Git / GitHub
-Desarrollo asistido mediante IA
-🧠 Competencias trabajadas
+```
+
+## 🛠️ Tecnologías utilizadas
+
+### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+
+### Backend / Datos
+- Firebase
+- Firestore
+- Firebase Authentication
+
+### Lectura QR
+- html5-qrcode
+
+### Herramientas
+- Visual Studio Code
+- Git / GitHub
+
+### Desarrollo asistido mediante IA
+Durante el desarrollo se utilizaron herramientas de inteligencia artificial como apoyo para estructurar soluciones, analizar problemas, depurar errores y acelerar determinadas fases del desarrollo.
+
+---
+
+## 🧠 Competencias trabajadas
 
 Más allá del desarrollo técnico, el proyecto implicó analizar un proceso operativo real y transformarlo en un flujo digital.
 
 Entre las principales competencias trabajadas:
 
-análisis de procesos;
-digitalización de operaciones;
-resolución de problemas;
-diseño de flujos de trabajo;
-modelado de datos;
-bases de datos en tiempo real;
-gestión de estados;
-lectura de códigos QR;
-desarrollo web;
-diseño de interfaces orientadas al usuario;
-automatización de procesos.
-📊 Información manejada
+- Análisis de procesos
+- Digitalización de operaciones
+- Resolución de problemas
+- Diseño de flujos de trabajo
+- Modelado de datos
+- Bases de datos en tiempo real
+- Gestión de estados
+- Lectura de códigos QR
+- Desarrollo web
+- Diseño de interfaces orientadas al usuario
+- Automatización de procesos
+
+---
+
+## 📊 Información manejada
 
 Cada registro puede contener información como:
 
-ID de pedido
-Cliente
-Referencia
-Número de piezas
-Peso
-Ruta
-Fecha
-Estado de carga
-Incidencia
+- ID de pedido
+- Cliente
+- Referencia
+- Número de piezas
+- Peso
+- Ruta
+- Fecha
+- Estado de carga
+- Incidencia
 
-Los datos mostrados públicamente en este repositorio y en las futuras demostraciones serán datos ficticios o anonimizados.
+> Los datos mostrados públicamente en este repositorio y en las futuras demostraciones serán siempre ficticios o anonimizados.
 
-📸 Capturas del proyecto
-Panel de rutas
+---
 
-Próximamente
+## 📸 Capturas del proyecto
 
-<!-- ![Panel rutas](docs/panel-rutas.png) -->
-Detalle de expedición
+### Panel de rutas
 
-Próximamente
+**Próximamente**
 
-<!-- ![Detalle expedición](docs/detalle-ruta.png) -->
-Escáner QR
+<!-- ![Panel de rutas](docs/panel-rutas.png) -->
 
-Próximamente
+### Detalle de expedición
+
+**Próximamente**
+
+<!-- ![Detalle de expedición](docs/detalle-ruta.png) -->
+
+### Escáner QR
+
+**Próximamente**
 
 <!-- ![Escáner QR](docs/escaner-qr.png) -->
-Gestión de incidencias
 
-Próximamente
+### Gestión de incidencias
 
-<!-- ![Incidencias](docs/incidencias.png) -->
-🎥 Demostración
+**Próximamente**
+
+<!-- ![Gestión de incidencias](docs/incidencias.png) -->
+
+---
+
+## 🎥 Demostración
 
 Se añadirá una demostración breve del flujo completo:
 
+```text
 Selección de ruta
-      ↓
+        ↓
 Visualización de pedidos
-      ↓
+        ↓
 Escaneo QR
-      ↓
+        ↓
 Pedido identificado
-      ↓
+        ↓
 Confirmación de carga / incidencia
-      ↓
+        ↓
 Actualización del estado
-      ↓
+        ↓
 Seguimiento de la expedición
+```
 
-🎬 Vídeo demostrativo: próximamente
+🎬 **Vídeo demostrativo: próximamente**
 
-💡 Enfoque del proyecto
+---
+
+## 💡 Enfoque del proyecto
 
 Este proyecto no nació como un ejercicio académico.
 
 Surge de observar un proceso operativo real e intentar responder a una pregunta:
 
-¿Cómo podría digitalizar este flujo para hacerlo más sencillo, trazable y menos dependiente de comprobaciones manuales?
+> **¿Cómo podría digitalizar este flujo para hacerlo más sencillo, trazable y menos dependiente de comprobaciones manuales?**
 
-El desarrollo se realizó como proyecto personal, aplicando conocimientos de software, bases de datos y automatización a una necesidad de un entorno industrial.
+El desarrollo se realizó como proyecto personal, aplicando conocimientos de software, bases de datos y automatización a una necesidad observada en un entorno industrial real.
 
-🔐 Privacidad y código fuente
+El objetivo no era simplemente crear una aplicación, sino analizar un proceso existente, detectar puntos de mejora y diseñar una solución digital que pudiera simplificar el trabajo diario.
+
+---
+
+## 🔐 Privacidad y código fuente
 
 Por motivos de seguridad, privacidad y protección de la lógica de negocio:
 
-el código fuente no se distribuye públicamente;
-no se publican credenciales ni configuraciones de producción;
-no se muestran datos reales de clientes;
-las demostraciones utilizan información ficticia o anonimizada.
+- El código fuente no se distribuye públicamente.
+- No se publican credenciales ni configuraciones de producción.
+- No se muestran datos reales de clientes.
+- Las demostraciones utilizan información ficticia o anonimizada.
 
-La arquitectura, funcionamiento y decisiones de diseño del proyecto sí se documentan públicamente con fines de portfolio profesional.
+La arquitectura, el funcionamiento, las decisiones de diseño y el flujo general del proyecto sí se documentan públicamente con fines de portfolio profesional.
